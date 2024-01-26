@@ -1,3 +1,3 @@
 ﻿# ApiCatalogo
-Estudos curso Macoratti 2024
+Estudos curso Macoratti
 (:
